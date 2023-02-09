@@ -81,4 +81,10 @@ html {
 
 #message {
     color: #ffffff;
+    text-align: center;
+    font-size: 1em;
+}
+
+.popup.hide {
+    display: none;
 }
